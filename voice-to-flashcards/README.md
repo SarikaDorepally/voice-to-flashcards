@@ -5,7 +5,7 @@
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
-**[🔗 Live App](#)** &nbsp;·&nbsp; **[📐 Architecture](./docs/architecture.md)** &nbsp;·&nbsp; **[📄 Technical Design](./docs/technical_design.md)**
+**[🔗 Live App](#https://voice-to-flashcards-2dpt3jhfqmdrrkwjwbjk2a.streamlit.app/)** &nbsp;·&nbsp; **[📐 Architecture](./docs/architecture.md)** &nbsp;·&nbsp; **[📄 Technical Design](./docs/technical_design.md)**
 
 ---
 
